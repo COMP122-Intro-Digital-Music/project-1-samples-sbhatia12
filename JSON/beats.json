@@ -1,22 +1,22 @@
 [
-    {
-      "name": "snare 5",
-      "pitch": "B3",
-      "pattern": "10010"
-    },
-    {
-      "name": "snare 3",
-      "pitch": "B3",
-      "pattern": "100"
-    },
-    {
-      "name": "kick",
-      "pitch": "A3",
-      "pattern": "1000"
-    },
-    {
-      "name": "claps",
-      "pitch": "C4",
-      "pattern": "00001000"
-    }
-  ]
+  {
+    "name": "Beat1Claps",
+    "pitch": "C4",
+    "pattern": "10000000010000"
+  },
+  {
+    "name": "Beat2Cymbal",
+    "pitch": "E4",
+    "pattern": "100010000000100000"
+  },
+  {
+    "name": "Beat3Kick",
+    "pitch": "A3",
+    "pattern": "1000000000000100"
+  },
+  {
+    "name": "Beat4",
+    "pitch": "C#4",
+    "pattern": "1000"
+  }
+]
