@@ -45,5 +45,28 @@
         "type": "amsawtooth9"
       }
     }
+  },
+  {
+    "name": "Default 2",
+    "type": "Synth",
+    "settings": {
+      "volume": "0",
+      "detune": "30",
+      "portamento": "-3",
+      "envelope": {
+        "attack": "0.28",
+        "attackCurve": "ripple",
+        "decay": "0.24",
+        "decayCurve": "exponential",
+        "release": "0.69",
+        "releaseCurve": "cosine",
+        "sustain": "0.8"
+      },
+      "oscillator": {
+        "partialCount": "6",
+        "phase": 0,
+        "type": "square6"
+      }
+    }
   }
 ]
