@@ -1,24 +1,25 @@
 [
   {
-    "name": "Synth",
+    "name": "Default 0",
     "type": "Synth",
     "settings": {
       "volume": "0",
-      "detune": "3",
-      "portamento": "-0.3",
+      "detune": "0",
+      "portamento": "0.05",
       "envelope": {
-        "attack": "0.03",
-        "attackCurve": "sine",
-        "decay": "0.13",
+        "attack": "0.005",
+        "attackCurve": "linear",
+        "decay": "0.1",
         "decayCurve": "exponential",
-        "release": "1.03",
+        "release": "1",
         "releaseCurve": "exponential",
         "sustain": "0.3"
       },
       "oscillator": {
-        "partialCount": "3",
+        "partialCount": "0",
+        "partials": [],
         "phase": 0,
-        "type": "sine3"
+        "type": "triangle"
       }
     }
   }
