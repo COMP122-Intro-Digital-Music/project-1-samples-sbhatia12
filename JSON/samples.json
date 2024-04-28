@@ -1,1 +1,38 @@
-[ ]
+[
+  {
+    "name": "dry-jazz-bass_111bpm_E_minor",
+    "file": "samples/dry-jazz-bass_111bpm_E_minor.wav",
+    "bpm": "111",
+    "loop": "1m"
+  },
+  {
+    "name": "mixed-bossa-strings_98bpm_E_minor",
+    "file": "samples/mixed-bossa-strings_98bpm_E_minor.wav",
+    "bpm": "98",
+    "loop": "1m"
+  },
+  {
+    "name": "piano-melody-memories_88bpm",
+    "file": "samples/piano-melody-memories_88bpm.wav",
+    "bpm": "88",
+    "loop": "1m"
+  },
+  {
+    "name": "p1s1",
+    "file": "samples/p1s1.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "p1s2",
+    "file": "samples/p1s2.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "p1s3",
+    "file": "samples/p1s3.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  }
+]
